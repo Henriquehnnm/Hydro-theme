@@ -1,0 +1,40 @@
+{
+  "name": "hydro",
+  "displayName": "Hydro Theme",
+  "publisher": "Henriquehnnm",
+  "description": "The official theme of the HydroFetch project",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Henriquehnnm/Hydro-theme"
+  },
+  "icon": "icon.png",
+  "version": "1.0.5",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hydro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hydro-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "hydro",
+        "label": "Hydro",
+        "path": "./icons/Hydro-icon-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "installedTimestamp": 1766071606278,
+    "targetPlatform": "undefined",
+    "size": 31267
+  }
+}
