@@ -1,5 +1,5 @@
 {
-  "name": "hydro",
+  "name": "hydro-theme",
   "displayName": "Hydro Theme",
   "publisher": "Henriquehnnm",
   "description": "The official theme of the HydroFetch project",
@@ -9,7 +9,7 @@
     "url": "https://github.com/Henriquehnnm/Hydro-theme"
   },
   "icon": "icon.png",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "engines": {
     "vscode": "^1.75.0"
   },
