@@ -2,22 +2,18 @@
 
 ## BG (Background)
 
-- `#101010` - Deep
-- `#161616` - Depth
-- `#1C1C1C` - Void
-- `#232323` - Shadow
-- `#282828` - Stone
-- `#343434` - Slate
-- `#808080` - Mist
+- `#0A0A0A` - Deep
+- `#171717` - Depth
+- `#262626` - Void
+- `#404040` - Shadow
+- `#525252` - Stone
+- `#737373` - Slate
+- `#A1A1A1` - Mist
 
 ## FG (Foreground)
 
-- `#FFF` - Foam
-- `#A0A0A0` - Droplet
-- `#7E7E7E` - Haze
-- `#707070` - Vapor
-- `#505050` - Lead
-- `#000` - Ink
+- `#FAFAFA` - Foam
+- `#A1A1A1` - Droplet
 
 ## Accent
 

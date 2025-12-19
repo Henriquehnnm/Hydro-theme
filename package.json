@@ -9,7 +9,7 @@
     "url": "https://github.com/Henriquehnnm/Hydro-theme"
   },
   "icon": "icon.png",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -22,13 +22,23 @@
         "label": "Hydro",
         "uiTheme": "vs-dark",
         "path": "./themes/Hydro-color-theme.json"
+      },
+      {
+        "label": "Hydro Sea",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hydro-color-theme_sea.json"
+      },
+      {
+        "label": "Hydro Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hydro-color-theme_soft.json"
       }
     ],
     "iconThemes": [
       {
         "id": "hydro",
         "label": "Hydro",
-        "path": "./icons/Hydro-icon-theme.json"
+        "path": "./icons/Hydro/Hydro-icon-theme.json"
       }
     ]
   },
