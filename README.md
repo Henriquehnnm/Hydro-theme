@@ -6,9 +6,16 @@ The official theme for the [HydroFetch project](https://github.com/Henriquehnnm/
 
 Hydro Theme is a sleek, modern, and highly optimized visual theme designed to enhance the development experience within your code editor. Crafted as the official theme for the HydroFetch project, it offers a harmonious blend of aesthetics and functionality, ensuring optimal readability and reduced eye strain during prolonged coding sessions.
 
-# Preview
+## Preview
 
+### Hydro
 ![Hydro Theme Preview](https://raw.githubusercontent.com/Henriquehnnm/Hydro-theme/refs/heads/main/preview.png)
+
+### Hydro Sea
+![Hydro Theme Sea Preview](https://raw.githubusercontent.com/Henriquehnnm/Hydro-theme/refs/heads/main/preview-sea.png)
+
+### Hydro Soft
+![Hydro Theme Soft Preview](https://raw.githubusercontent.com/Henriquehnnm/Hydro-theme/refs/heads/main/preview-soft.png)
 
 ## Features
 
